@@ -1,5 +1,9 @@
 # Leetcode For Rust
 
+---
+
+[![Build Status](https://travis-ci.com/haochuan/leetcode-rust.svg?branch=master)](https://travis-ci.com/haochuan/leetcode-rust)
+
 Practice Rust with [Leetcode](https://leetcode.com/).
 
 - Problem solutions are located in `src/problems`.
